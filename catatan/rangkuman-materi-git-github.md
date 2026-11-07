@@ -1,4 +1,4 @@
-# 📖 Rangkuman Lengkap Materi Workshop: From AI to GitHub
+# Rangkuman Lengkap Materi Workshop: From AI to GitHub
 **Kegiatan**: Workshop EXPECTIK 2026 — Day 1 (Proyek Workshop-26)  
 **Pemateri**: Nugi Farhan (*Senior Product Designer & UX Advisor*)  
 **Judul Modul**: *Building with AI, Managing Change with GitHub*  
@@ -6,7 +6,7 @@
 
 ---
 
-## 🎯 Capaian & Objektif Pembelajaran
+## Capaian & Objektif Pembelajaran
 1. Mampu menjelaskan bagaimana perancangan *prompt AI* yang spesifik dan berkonteks menghasilkan luaran kode/aplikasi yang jauh lebih baik.
 2. Mampu mengidentifikasi dan memahami konsep *repository*, *commit*, *branch*, dan *pull request*.
 3. Mampu membedakan secara jelas antara **Git** (alat lokal) dan **GitHub** (platform *cloud* kolaborasi).
@@ -14,7 +14,7 @@
 
 ---
 
-## 🤖 BAGIAN 1: MEMBUAT & MENGEMBANGKAN (PROMPT ENGINEERING)
+## BAGIAN 1: MEMBUAT & MENGEMBANGKAN (PROMPT ENGINEERING)
 
 ### 1. Definisi Prompt Engineering
 * **Prompt**: Instruksi, konteks, atau masukan yang diberikan pengguna kepada model AI (seperti ChatGPT, Claude, Antigravity) untuk menghasilkan keluaran tertentu.
@@ -58,7 +58,7 @@ Struktur standar prompt profesional terdiri dari 4 pilar utama:
 
 ---
 
-## 🐙 BAGIAN 2: MANAJEMEN PERUBAHAN & KOLABORASI (GIT & GITHUB)
+## BAGIAN 2: MANAJEMEN PERUBAHAN & KOLABORASI (GIT & GITHUB)
 
 ### 1. Apa itu Git?
 * **Git** adalah sistem pengontrol versi terdistribusi (*Distributed Version Control System / DVCS*) yang diciptakan oleh **Linus Torvalds** pada tahun 2005.
@@ -115,7 +115,7 @@ Git bekerja melalui 3 area utama di mesin lokal:
 
 ---
 
-## ⚙️ BAGIAN 3: PANDUAN SETUP LINGKUNGAN PENGEMBANGAN
+## BAGIAN 3: PANDUAN SETUP LINGKUNGAN PENGEMBANGAN
 
 ### 1. Konfigurasi Identitas Git
 Wajib diset agar riwayat commit tercatat atas nama mahasiswa yang bersangkutan:
@@ -151,7 +151,7 @@ Sebelum mulai bekerja, pastikan 4 hal ini sudah terpasang dan berfungsi baik:
 
 ---
 
-## 🚀 BAGIAN 4: IMPLEMENTASI PRAKTIK (STUDENT TASK PLANNER)
+## BAGIAN 4: IMPLEMENTASI PRAKTIK (STUDENT TASK PLANNER)
 
 Sesuai materi workshop, langkah alur praktik pengembangan proyek adalah:
 1. **Pilih AI Assisted Platform**: Menggunakan platform bantuan AI (Claude, Antigravity, ChatGPT).
