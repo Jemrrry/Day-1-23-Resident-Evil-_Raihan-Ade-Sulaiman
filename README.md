@@ -121,6 +121,11 @@ git push -u origin main
 * **Pemisahan Peran Git vs GitHub**: Git bekerja sepenuhnya secara lokal di komputer tanpa koneksi internet untuk merekam setiap perubahan, sedangkan GitHub adalah media kolaborasi dan publikasi kode berbasis cloud.
 * **Keamanan SSH Key Ed25519**: Memahami keunggulan kurva Edwards-curve Digital Signature Algorithm (Ed25519) rancangan Daniel J. Bernstein dibanding RSA lama dalam hal performa dan ketahanan kriptografi.
 * **Pentingnya Visibilitas Publik**: Memastikan repositori berstatus **Public** agar dapat diakses panitia penilai tanpa kendala otorisasi, sekaligus memulai rekam jejak portofolio digital mahasiswa baru TIK PNJ.
+* Hal paling berasa dari materi tadi sebenarnya soal ekspektasi. 
+
+Dulu saya kira pakai AI buat ngoding itu sesimpel lempar satu kalimat, terus aplikasinya langsung beres. Pas dipraktikkan langsung, hasilnya jauh dari itu. Waktu prompt-nya cuma asal suruh, AI-nya malah ngasih struktur yang kepanjangan dan bawa-bawa library yang belum saya pelajari. Begitu prompt-nya diperjelas pakai format yang diajarkan Kak Nugi—dibatasin ke HTML, CSS, sama Vanilla JS murni buat mahasiswa baru—kodenya baru masuk akal dan gampang saya telusuri baris per baris. Kuncinya ternyata bukan di seberapa canggih AI-nya, tapi seberapa jelas kita ngasih instruksi.
+
+Urusan Git juga sama. Awalnya saya mengira GitHub itu cuma tempat numpang upload file biar panitia gampang meriksa. Sempat bingung juga di terminal waktu mau menghubungkan remote origin tadi. Tapi setelah alurnya jalan dari `add`, `commit`, sampai `push`, baru paham kenapa anak IT wajib pakai ini: pelacakan versinya rapi, dan saya nggak perlu lagi panik atau bikin file salinan dengan nama aneh-aneh kayak `tugas_final_revisi2.cpp` kalau kodenya mendadak rusak pas dioprek.
 
 ---
 
