@@ -12,10 +12,10 @@
 | Keterangan | Data Peserta |
 | :--- | :--- |
 | **Nama Lengkap** | Raihan Ade Sulaiman |
-| **NIM** | [Masukkan NIM Anda] |
-| **Program Studi** | [Teknik Informatika / Teknik Multimedia Digital / Teknik Komputer dan Jaringan / dll] |
+| **NIM** | 2607441044 |
+| **Program Studi** | Rekayasa Keamanan Siber |
 | **Kelompok** | Kelompok 23 - Resident Evil |
-| **Mentor Kelompok** | [Masukkan Nama Mentor] |
+| **Mentor Kelompok** | Kak Awa & Bang Nizar |
 | **Akun GitHub** | [@Jemrrry](https://github.com/Jemrrry) |
 | **Tautan Repositori** | [https://github.com/Jemrrry/Day-1-23-Resident-Evil-_Raihan-Ade-Sulaiman](https://github.com/Jemrrry/Day-1-23-Resident-Evil-_Raihan-Ade-Sulaiman) |
 
@@ -150,28 +150,3 @@ git push -u origin main
 | *(Tangkapan layar Zoom / Sesi Materi)* | *(Tangkapan layar terminal / repositori GitHub)* |
 
 ---
-
-## ✅ Checklist Ketentuan & Rubrik Penilaian
-
-Sebelum mengirimkan tautan repositori ke web EXPECTIK, pastikan seluruh kriteria telah terpenuhi:
-
-- [x] Repository berstatus **Public** (dapat dibuka melalui *incognito mode* tanpa login).
-- [x] File `README.md` memuat:
-  - [x] Nama lengkap peserta
-  - [x] Deskripsi singkat repository
-  - [x] Tujuan / kegunaan repository
-  - [x] Informasi singkat kegiatan workshop
-- [x] Dokumentasi kegiatan workshop memuat:
-  - [x] Materi/topik yang disampaikan (Prompt Engineering & Git/GitHub)
-  - [x] Catatan dan rangkuman materi lengkap
-  - [x] Poin-poin penting / wawasan baru yang dipelajari
-- [x] Berkas `Git & Github.pdf` dan catatan materi telah terorganisir di repository.
-- [x] Tautan repository telah disalin dan valid milik sendiri.
-- [x] Dikumpulkan sebelum tenggat waktu: **Sabtu, 7 November 2026 Pukul 23.59 WIB**.
-
----
-
-<p align="center">
-  Dibuat untuk penugasan <strong>EXPECTIK 2026</strong><br>
-  <strong>Himpunan Mahasiswa Informatika dan Komputer (HIMATIK) — Politeknik Negeri Jakarta</strong>
-</p>
