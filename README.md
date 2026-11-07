@@ -147,6 +147,6 @@ git push -u origin main
 
 | Bukti Kehadiran Workshop | Bukti Praktik Git & GitHub |
 | :---: | :---: |
-| *(Tangkapan layar Zoom / Sesi Materi)* | *(Tangkapan layar terminal / repositori GitHub)* |
+| *<img width="900" height="1600" alt="WhatsApp Image 2026-11-07 at 18 07 49" src="https://github.com/user-attachments/assets/f504d3fd-1df4-4383-933f-662d397b2f7d" />* | *<img width="960" height="1280" alt="WhatsApp Image 2026-11-07 at 17 30 05" src="https://github.com/user-attachments/assets/eef74cf4-5261-4e9b-a77a-69d2a2acea90" />* |
 
 ---
