@@ -1,13 +1,7 @@
-# 📚 Dokumentasi Kegiatan Workshop - EXPECTIK 2026
-### Jurusan Teknik Informatika dan Komputer (TIK) — Politeknik Negeri Jakarta
-
-![GitHub repo size](https://img.shields.io/github/repo-size/Jemrrry/Day-1-23-Resident-Evil-_Raihan-Ade-Sulaiman?color=blue&style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/Jemrrry/Day-1-23-Resident-Evil-_Raihan-Ade-Sulaiman?style=flat-square)
-![Visibility Public](https://img.shields.io/badge/Visibility-Public-green?style=flat-square)
 
 ---
 
-## 👤 Identitas Peserta
+## Identitas Peserta
 
 | Keterangan | Data Peserta |
 | :--- | :--- |
@@ -21,7 +15,7 @@
 
 ---
 
-## 📖 Deskripsi Singkat Repository
+## Deskripsi Singkat Repository
 
 Repository ini dibuat sebagai media penyimpanan publik (*public repository*) dan pusat dokumentasi resmi selama mengikuti kegiatan **Workshop EXPECTIK 2026: Day 1 - Proyek Workshop** yang diselenggarakan oleh Himpunan Mahasiswa Informatika dan Komputer (HIMATIK) Politeknik Negeri Jakarta.
 
@@ -29,7 +23,7 @@ Repositori ini memuat rangkuman materi dari modul **"Building with AI, Managing 
 
 ---
 
-## 🎯 Tujuan & Kegunaan Repository
+## Tujuan & Kegunaan Repository
 
 Berdasarkan ketentuan Misi Proyek Workshop EXPECTIK 2026, repository ini memiliki tujuan sebagai berikut:
 
@@ -41,7 +35,7 @@ Berdasarkan ketentuan Misi Proyek Workshop EXPECTIK 2026, repository ini memilik
 
 ---
 
-## ℹ️ Informasi Kegiatan Workshop
+## Informasi Kegiatan Workshop
 
 - **Nama Misi**: Day 1 - Proyek Workshop-26 (Week 1)
 - **Topik Workshop**: *From AI to GitHub: Building with AI, Managing Change with GitHub*
@@ -53,7 +47,7 @@ Berdasarkan ketentuan Misi Proyek Workshop EXPECTIK 2026, repository ini memilik
 
 ---
 
-## 📝 Dokumentasi Kegiatan & Rangkuman Materi Workshop
+## Dokumentasi Kegiatan & Rangkuman Materi Workshop
 
 > *Catatan mendalam dan rincian teknis dapat dibaca pada berkas: [catatan/rangkuman-materi-git-github.md](catatan/rangkuman-materi-git-github.md)*
 
@@ -129,7 +123,7 @@ Urusan Git juga sama. Awalnya saya mengira GitHub itu cuma tempat numpang upload
 
 ---
 
-## 📁 Struktur Direktori Repository
+## Struktur Direktori Repository
 
 ```text
 .
@@ -146,7 +140,7 @@ Urusan Git juga sama. Awalnya saya mengira GitHub itu cuma tempat numpang upload
 
 ---
 
-## 📷 Dokumentasi Visual / Bukti Pelaksanaan
+## Dokumentasi Visual / Bukti Pelaksanaan
 
 > *Tambahkan foto tangkapan layar (screenshot) sesi workshop dan hasil praktik Git/GitHub di bawah ini:*
 
